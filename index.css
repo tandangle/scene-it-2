@@ -9,3 +9,13 @@ body {
 .header p {
 	color: #50524F;
 }
+
+.movie-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.movie {
+	margin-bottom: 20px;
+}
